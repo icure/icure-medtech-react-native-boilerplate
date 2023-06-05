@@ -1,0 +1,8 @@
+{
+  "name": "icure-medical-device-react-native-boilerplate-app-template",
+  "version": "0.0.1",
+  "description": "Medical Device React Native Template",
+  "repository": "git@github.com:icure/icure-medical-device-react-native-boilerplate-app-template",
+  "author": "Antoine Duchâteau <ad@icure.com>",
+  "license": "MIT"
+}
