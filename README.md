@@ -10,6 +10,7 @@ Start working on your e-health React Native app with iCure in a few minutes, by 
 npx react-native init MedtechApp --template https://github.com/icure/icure-medtech-react-native-boilerplate
 ```
 
+
 *WARNING: Please note that, as iCure uses a native plugin for cryptography, it is not compatible with Expo*
 
 Once your app is created, complete the following values of the file `config/constants.ts`: 
